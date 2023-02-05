@@ -35,7 +35,7 @@ $ chmod +x script.sh
 ### 4. Execute o script
 
 ~~~
-$ ./pos-instalacao-manjaro.sh
+$ ./script.sh
 ~~~
 
 <br>
