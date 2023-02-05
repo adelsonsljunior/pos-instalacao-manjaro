@@ -29,7 +29,7 @@ $ cd pos-instalacao-manjaro/
 ### 3. Dê permissão de execução ao script
 
 ~~~
-$ chmod +x pos-instalacao-manjaro.sh
+$ chmod +x script.sh
 ~~~
 
 ### 4. Execute o script
